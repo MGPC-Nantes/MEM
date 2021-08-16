@@ -27,7 +27,7 @@ MEM combines a workflow and a plugin for CLC Genomics Workbench (QIAGEN Aarhus A
 
 The ready-to-use files are available in the "CLC-Ready-to-use" folder.
 
-1- Install the plugin on an adapted version of the CLC Genomics Workbench with the "MEMAnalysis_CLC_vX-X.X.cpa" file
+1- Install the plugin on an adapted version of the CLC Genomics Workbench with the "MEMAnalysis_CLC_vX-X.X.cpa" file.
 2- Install the workflow on an adapted version of the CLC Genomics Workbench with the "MEMworkflow_CLC_vX-X.X.cpw" file.
 
 For more information on installing plugins and workflows on the CLC Genomics Workbench, see the [User Manual](http://resources.qiagenbioinformatics.com/manuals/clcgenomicsworkbench/current/User_Manual.pdf) for your current version.
